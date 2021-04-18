@@ -2,7 +2,12 @@ module.exports = {
     purge: [],
     darkMode: 'class',
     theme: {
-        extend: {},
+        fontFamily: {
+            'notosans': ['NotoSansMonoCJKkr-Regular']
+        },
+        textColor: {
+            'darkgrey': '#4f4f4f'
+        }
     },
     variants: {
         extend: {},
