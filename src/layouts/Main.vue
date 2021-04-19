@@ -1,6 +1,6 @@
 <template>
   <div class="flex h-screen items-center">
-    <div class="mx-auto sm:grid sm:grid-cols-2 gap-4 sm:flex items-center">
+    <div class="mx-auto sm:grid sm:grid-cols-2 gap-4 items-center select-none">
       <div class="">
         <img class="w-52 h-52 mx-auto" src="../assets/images/kiki.gif" />
       </div>

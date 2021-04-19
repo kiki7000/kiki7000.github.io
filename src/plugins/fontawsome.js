@@ -1,9 +1,17 @@
 import { library } from '@fortawesome/fontawesome-svg-core'
-import { faGithub, faDiscord } from '@fortawesome/free-brands-svg-icons'
-import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
+import { faGithub, faDiscord, faPython, faNodeJs, faReact, faVuejs, faBootstrap, faDocker, faGitAlt } from '@fortawesome/free-brands-svg-icons'
+import { faEnvelope, faArrowRight } from '@fortawesome/free-solid-svg-icons'
 
 library.add(
     faGithub,
     faDiscord,
-    faEnvelope
+    faEnvelope,
+    faPython,
+    faNodeJs,
+    faReact,
+    faVuejs,
+    faBootstrap,
+    faGitAlt,
+    faDocker,
+    faArrowRight
 )
