@@ -1,6 +1,6 @@
 <template>
   <div class="flex h-screen items-center select-none">
-    <div className="flex flex-col mx-auto w-4/5 h-4/5">
+    <div class="flex flex-col mx-auto w-4/5 h-4/5">
       <h1 class="text-3xl font-semibold text-darkgrey">Skills</h1>
       <div class="pl-4 mt-2 font-semibold">
         <h3 class="text-lg">Languages</h3>
