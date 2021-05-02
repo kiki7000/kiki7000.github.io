@@ -35,9 +35,9 @@ export default {
     return {
       projects: [
         {
-          name: "Discord.py Buttons",
-          description: "unofficial library for discord buttons",
-          github: "https://github.com/kiki7000/discord.py-buttons",
+          name: "Discord.py Components",
+          description: "unofficial library for discord components",
+          github: "https://github.com/kiki7000/discord.py-components",
         },
         {
           name: "Comcigan-py",
